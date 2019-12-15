@@ -8,7 +8,7 @@
 
 // tyrannosaurus, carnivorous, 7000kg, 12m, Late Cretaceous
 
-let tyrannosaurus = {
+const tyrannosaurus = {
 	diet: "carnivorous",
 	weight: "7000kg",
 	length: "12m",
@@ -17,7 +17,7 @@ let tyrannosaurus = {
 
 // stegosaurus, herbivorous, 2000kg, 9m, Late Jurassic
 
-let stegosaurus = {
+const stegosaurus = {
 	diet: "herbivorous",
 	weight: "2000kg",
 	length: "9m",
@@ -26,7 +26,7 @@ let stegosaurus = {
 
 // velociraptor, carnivorous, 15kg, 1.8m, Late Cretaceous
 
-let velociraptor = {
+const velociraptor = {
 	diet: "carnivorous",
 	weight: "15kg",
 	length: "1.8m",
